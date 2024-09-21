@@ -13,6 +13,8 @@
 Анализ данных, Прогнозирование, Data Analysis, Java, SQL, Аналитические исследования,
 Аналитическое мышление, Numpy, pandas, Matplotlib, Git, GitHub, Agile, Scikit-learn 
 
+Опыт работы: ПАО "Сургутнефтегаз" (ведущий инженер-программист), Сургутский государственный университет (преподаватель).
+
 <!--
 **Y0Gin/Y0Gin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

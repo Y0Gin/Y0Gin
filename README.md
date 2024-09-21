@@ -8,6 +8,11 @@
 получения прибыли очень сильно затягивает.
 * Читаю информацию по аналитике в ТГ-каналах "Аналитика и growth mind-set", "Центр
 непрерывного образования".
+
+Используемый стек технологий: Python, PostgreSQL, Статистический анализ, Системный анализ, 
+Анализ данных, Прогнозирование, Data Analysis, Java, SQL, Аналитические исследования,
+Аналитическое мышление, Numpy, pandas, Matplotlib, Git, GitHub, Agile, Scikit-learn 
+
 <!--
 **Y0Gin/Y0Gin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
